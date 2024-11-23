@@ -1,5 +1,7 @@
 # Desafios
 
+### Repositório para treinamento e resolução de desafios e exercícios.
+
 -   [Treinamentos](https://github.com/DopplerHQ/awesome-interview-questions?tab=readme-ov-file)
 
 ### Python
